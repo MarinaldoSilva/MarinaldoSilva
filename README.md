@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marinaldo Silva de Sanatana
+# 👨‍💻 Marinaldo Silva de Sanatana
 
 **`Desenvolvedor Back-and`**
 
