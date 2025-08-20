@@ -82,6 +82,15 @@ Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
+<img
+    align="left" 
+    alt="Django Rest Framework" 
+    title="Django Rest Framework"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"
+/>
+
 <br/>
 <br/>
 
