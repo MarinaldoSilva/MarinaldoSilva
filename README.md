@@ -102,13 +102,15 @@ Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. At
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-   src="https://github-readme-stats.vercel.app/api?username=marinaldosilva&show_icons=true&count_private=true&hide_border=true&title_color=ADFF2F&icon_color=00FFFF&text_color=c9d1d9&bg_color=000000" /> 
+    src="https://github-readme-stats.vercel.app/api?username=marinaldosilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaldosilva&hide_border=true&title_color=ADFF2F&icon_color=00FFFF&text_color=c9d1d9&bg_color=000000&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaldosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 
 </p>
