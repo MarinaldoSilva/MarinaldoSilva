@@ -1,6 +1,5 @@
-# 👨‍💻 Marinaldo Silva de Sanatana
-
-**`Desenvolvedor Back-and`**
+# 👨‍💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+MARINALDO+SILVA)](https://git.io/typing-svg) 
+**`Desenvolvedor Python Back-and`**
 
 Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através aulas com alunos do 1º e 2º período através de aulas sobre lógica de programação com Java e Python, para saber mais entra em contato comigo atraves do meu email, marinaldo12@hotmail.com
 
@@ -102,7 +101,7 @@ Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. At
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marinaldosilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=marinaldosilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&width=150" 
   />
 
 <img 
@@ -112,5 +111,8 @@ Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. At
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaldosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+
+
+[![Ashutosh's Gráfico de Commit's](https://github-readme-activity-graph.vercel.app/graph?username=MarinaldoSilva&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
