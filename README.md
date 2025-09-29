@@ -1,5 +1,6 @@
-<h1>Olá sou Marinaldo Silva 👨‍💻</h1>
-<!-- # 👨‍💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+MARINALDO+SILVA)](https://git.io/typing-svg) -->
+# Olá sou Marinaldo Silva 👨‍💻
+
+[![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinaldosilva/)
 
 # **`Desenvolvedor Python Back-and`**
 
@@ -120,3 +121,5 @@ Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. At
 [![Ashutosh's Gráfico de Commit's](https://github-readme-activity-graph.vercel.app/graph?username=MarinaldoSilva&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
+
+<!-- # 👨‍💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+MARINALDO+SILVA)](https://git.io/typing-svg) -->
