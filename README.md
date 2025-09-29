@@ -1,7 +1,11 @@
-# 👨‍💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+MARINALDO+SILVA)](https://git.io/typing-svg) 
-**`Desenvolvedor Python Back-and`**
+<h1>Olá sou Marinaldo Silva 👨‍💻</h1>
+<!-- # 👨‍💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+MARINALDO+SILVA)](https://git.io/typing-svg) -->
 
-Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através aulas com alunos do 1º e 2º período através de aulas sobre lógica de programação com Java e Python, para saber mais entra em contato comigo atraves do meu email, marinaldo12@hotmail.com
+# **`Desenvolvedor Python Back-and`**
+
+Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através aulas com alunos do 1º e 2º período através de aulas sobre lógica de programação com Java e Python, para saber mais entra em contato comigo atraves do meu email: 
+## marinaldo12@hotmail.com
+
 
 <p align="left">
     <a href="https://github.com/marinaldosilva?tab=repositories&sort=stargazers">
