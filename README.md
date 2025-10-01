@@ -106,7 +106,7 @@ Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. At
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marinaldosilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&width=150" 
+    src="https://github-readme-stats.vercel.app/api?username=marinaldosilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&width=100" 
   />
 
 <img 
@@ -115,10 +115,13 @@ Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. At
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaldosilva&theme=tokyonight&layout=compact&custom_title=Tecnologias%20%utilizadas&langs_count=6" 
   />
-
-
-
+  
 [![Ashutosh's Gráfico de Commit's](https://github-readme-activity-graph.vercel.app/graph?username=MarinaldoSilva&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marinaldosilva&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Marinaldo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarinaldoSilva)](https://github.com/MarinaldoSilva/github-readme-stats)
 
 </p>
 
