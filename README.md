@@ -121,7 +121,7 @@ Me chamo Marinaldo Silva, tenho 27 anos e sou natural do Rio Grande do Norte. At
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marinaldosilva&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Marinaldo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarinaldoSilva)](https://github.com/MarinaldoSilva/github-readme-stats)
+<!--[![Marinaldo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarinaldoSilva)](https://github.com/MarinaldoSilva/github-readme-stats)-->
 
 </p>
 
